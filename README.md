@@ -1,0 +1,2 @@
+# Project5-WordScramble
+A game that allows the player to make anagrams from an 8-letter word. On this project I was able to work on my closure skills with the aspect of capturing lists. Also, the challenges were to make a button to restart the game; disallow answers that were shorter than three letters or are just the start word; and refactor some if/else statements with a function called showError( ).
